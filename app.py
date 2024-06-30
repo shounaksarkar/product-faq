@@ -1,6 +1,5 @@
 import streamlit as st
 import requests
-from IPython.display import Markdown
 from langchain_groq import ChatGroq
 
 # Initialize the LLM with the provided API key and model name
